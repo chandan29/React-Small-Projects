@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo:null
     };
 
-    this.searchVideo('hungama');
+    this.searchVideo('cricket');
 }
 
 
